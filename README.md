@@ -13,4 +13,4 @@ Analyze the wheater conditions prior to a vacations
 Based on the last year same date:
 Excelent wheater conditions for the selected 2 weeks.
 
-<img src= "https://github.com/JoseLuisBracho/Climate_Vacation/Min_Avg_Max_LastYear.png" />
+![picture](Min_Avg_Max_LastYear.png)
